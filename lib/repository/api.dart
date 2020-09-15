@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 
 class Api{
 
-  String apiKey = "5895ad8bf4c54a8f6a3a17f280536565";
+  String apiKey = "your token apiKey";
   String hostName = "http://api.openweathermap.org/";
   final Logger log = new Logger("Api");
 
